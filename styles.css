@@ -1,0 +1,69 @@
+/* Горизонтальна панель навігації */
+.horizontal-navigation {
+    background-color: #333;
+}
+
+.horizontal-navigation ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.horizontal-navigation li {
+    flex-grow: 1;
+}
+
+.horizontal-navigation li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.horizontal-navigation a {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 15px;
+}
+
+.horizontal-navigation a:hover {
+    background-color: #ff9900;
+    color: #333;
+    border-radius: 5px;
+}
+
+.nav-design-element {
+    width: 20px;
+    height: 20px;
+    background-image: url('https://cdn.unifiedcommerce.com/content/product/large/4895145408691.jpg'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Вертикальна панель навігації */
+.vertical-navigation {
+    background-color: #333;
+    width: 200px;
+    text-align: center;
+}
+
+.vertical-navigation ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.vertical-navigation li {
+    margin-bottom: 10px;
+}
+
+.vertical-navigation a {
+    text-decoration: none;
+    color: #fff;
+    display: block;
+}
+
+.vertical-navigation a:hover {
+    color: #ff9900;
+}
+
+.vertical-navigation .separator {
+    color: #fff;

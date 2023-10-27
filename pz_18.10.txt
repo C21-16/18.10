@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+</head>
+<body>
+      <nav class="horizontal-navigation">
+        <ul>
+            <li><a href="page1.html">Пункт 1</a></li>
+            <li><a href="page2.html">Пункт 2</a></li>
+            <li><a href="page3.html">Пункт 3</a></li>
+            <li><a href="#"><img src="icon1.png" alt="Іконка 1"></a></li>
+            <li><a href="#">|</a></li>
+        </ul>
+     </nav>
+     <nav class="vertical-navigation">
+        <ul>
+            <li><a href="section1.html">Розділ 1</a></li>
+            <li><a href="section2.html">Розділ 2</a></li>
+            <li><a href="section3.html">Розділ 3</a></li>
+            <li><a href="section4.html">Розділ 4</a></li>
+            <li><a href="section5.html">Розділ 5</a></li>
+            <li><a href="#"><img src="icon2.png" alt="Іконка 2"></a></li>
+            <li><a href="#">|</a></li>
+        </ul>
+     </nav>
+</body>
+</html>
+                
